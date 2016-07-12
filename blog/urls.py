@@ -1,5 +1,8 @@
 from django.conf.urls import include, url
 from . import views
+from django.contrib import admin
+admin.autodiscover()
+from blog.models import Post
 
 urlpatterns = [
 	url(r'^$', views.post_list),
