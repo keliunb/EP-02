@@ -1,4 +1,5 @@
 # EP-02
+[![Stories in Ready](https://badge.waffle.io/keliunb/EP-02.svg?label=ready&title=Ready)](http://waffle.io/keliunb/EP-02)
 
 This is a project for the discipline of DAS - UnB Faculdade Gama. 
 A blog about craft built in Django.
